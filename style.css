@@ -44,15 +44,15 @@ input{
     margin: 15px;
 }
 .i3{
-    background-image: url(images&icons/icons8-bag-50.png);
+    background-image: url(icons8-bag-50.png);
     background-size: cover;
 }
 .i2{
-    background-image: url(images&icons/icons8-heart-64.png);
+    background-image: url(icons8-heart-64.png);
     background-size: cover;
 }
 .i1{
-    background-image: url(images&icons/icons8-user-64.png);
+    background-image: url(icons8-user-64.png);
     background-size: cover;
 }
 .content{
@@ -76,7 +76,7 @@ input{
 .img1{
     height: 560px;
     width: 430px;
-    background-image: url(images&icons/product1.jpg);
+    background-image: url(product1.jpg);
     background-size: cover;
     transition: transform 0.5s ease-in-out;
 }
@@ -86,7 +86,7 @@ input{
 .img2{
     height: 560px;
     width: 430px;
-    background-image: url(images&icons/product2.jpg);
+    background-image: url(product2.jpg);
     background-size: cover;
     transition: transform 0.5s ease-in-out;
 }
@@ -96,7 +96,7 @@ input{
 .img3{
     height: 560px;
     width: 430px;
-    background-image: url(images&icons/product4.jpg);
+    background-image: url(product4.jpg);
     background-size: cover;
     transition: transform 0.5s ease-in-out;
 }
@@ -106,7 +106,7 @@ input{
 .img4{
     height: 560px;
     width: 430px;
-    background-image: url(images&icons/product3.jpg);
+    background-image: url(product3.jpg);
     background-size: cover;
     transition: transform 0.5s ease-in-out;
 }
@@ -140,19 +140,19 @@ button:hover {
 .icon1{
     height: 25px;
     width: 25px;
-    background-image: url("images&icons/icons8-insta-50.png");
+    background-image: url("icons8-insta-50.png");
     background-size: cover;
 }
 .icon2{
     height: 25px;
     width: 25px;
-    background-image: url("images&icons/icons8-twitter-26.png");
+    background-image: url("icons8-twitter-26.png");
     background-size: cover;
 }
 .icon3{
     height: 25px;
     width: 25px;
-    background-image: url("images&icons/icons8-facebook-24.png");
+    background-image: url("icons8-facebook-24.png");
     background-size: cover;
 }
 .foot-panel1{
